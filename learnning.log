@@ -7,4 +7,5 @@
 7.git checkout file
 8.git reset HEAD file
 9.ssh-keygen -t rsa -C "youremail@example.com"
-10.git remote add reponame  address
+10.git remote add remote_repo hddress
+11.git push -u remote_repo local_repo
