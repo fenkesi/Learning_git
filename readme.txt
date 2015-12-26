@@ -5,4 +5,4 @@ You know nothing Jhon Snow
 master branch
 feat branch
 new dev branch
-no fast forward merge
+No fast forward merge
