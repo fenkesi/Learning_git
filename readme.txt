@@ -1,1 +1,1 @@
-My conquer is the sea of satars.
+My conquer is the sea of stars.
