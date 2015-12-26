@@ -11,3 +11,6 @@
 11.git push -u remote_repo local_repo
 12.git remote -v
 13.git remote rm origin_repo_name
+14.git checkout -b branch_name
+15.git branch branch_name
+16.git checkout branch_name
