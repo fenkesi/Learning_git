@@ -1,0 +1,8 @@
+1.git add
+2.git commit -m "description for this commit"
+3.git reset -- hard (HEAD^^ or the version)
+4.git log  (-pretty=oneline)
+5.git reflog
+6.git status
+7.git checkout file
+8.git reset HEAD file
