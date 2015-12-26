@@ -14,3 +14,5 @@
 14.git checkout -b branch_name
 15.git branch branch_name
 16.git checkout branch_name
+17.git branch -d branch_name
+18.git merge branch_name
