@@ -6,3 +6,4 @@
 6.git status
 7.git checkout file
 8.git reset HEAD file
+9.ssh-keygen -t rsa -C "youremail@example.com"
